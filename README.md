@@ -14,7 +14,14 @@ There are many programming languages in use today. Choosing a language to progra
 - C# Decision Statements
 - Repetition in C#
 
+### Module 3. Working with Methods and Handling Exceptions
+- Introduction
+- Methods
+- Exception Handling
+
+
 ## Updates
 ### 01/03/2016
 - Finished Module 1. Introducing C#
 - Finished Module 2. Making Decisions and Performing Iterations
+- Finished Module 3. Working with Methods and Handling Exceptions
